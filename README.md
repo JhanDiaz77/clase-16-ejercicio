@@ -1,3 +1,3 @@
 # hola mundo
 console.log
-letlos mejores = "somos los mejores"
+let los mejores = "somos los mejores"
